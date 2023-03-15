@@ -1,0 +1,34 @@
+# Directories
+node_modules/
+dist/
+
+# Logs and databases
+logs/
+*.log
+*.sqlite
+
+# Environment variables
+.env
+
+# IDE and editor files
+.vscode/
+.idea/
+*.sublime-workspace
+*.swp
+*.swo
+
+# Build files and artifacts
+*.js
+*.map
+*.d.ts
+*.js.map
+*.d.ts.map
+
+# Package lock files
+package-lock.json
+yarn.lock
+
+# Cache and test files
+.cache/
+.nyc_output/
+coverage/
